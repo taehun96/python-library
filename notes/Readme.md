@@ -2,4 +2,4 @@
 
 
   ## 👀 Study List
-  #### 1. Numpy <br/>
+  #### 1. NumPy <br/>
